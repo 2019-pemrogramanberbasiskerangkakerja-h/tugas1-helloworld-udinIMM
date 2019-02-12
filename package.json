@@ -1,0 +1,22 @@
+{
+  "name": "tugas001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas1-helloworld-udinIMM.git"
+  },
+  "author": "Ilham Muhammad Misbahuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas1-helloworld-udinIMM/issues"
+  },
+  "homepage": "https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas1-helloworld-udinIMM#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
